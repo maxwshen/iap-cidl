@@ -10,6 +10,12 @@ Organized by Max Shen.
   * Structural Causal Models and Interventional Distributions (MS)
   * Potential Outcomes Framework (FJ)
   * Counterfactual Inference (FJ)
+  * Causal Effects (FJ)
+  * Conditional Treatment Effects (FJ)
+  * Distributional Shift (FJ)
+  * Domain Adaptation (FJ)
+  * Importance Sampling (FJ)
+  * Model Misspecification (FJ)
 
 **2. Wednesday, January 17th: 5pm-6:30pm at Room 4-231**
   * Counterfactual Inference, continued (FJ)
@@ -23,6 +29,9 @@ Organized by Max Shen.
 
 **3. Thursday, January 18th: 5pm-6:30pm at Room 4-231**
   * Causal Aspects of Reinforcement Learning (FJ)
+    * Policy Optimization (FJ)
+    * Off-Policy Evaluation (FJ)
+    * Batch Reinforcement Learning (FJ)
 
 # Material and Notes
 tba
