@@ -34,7 +34,7 @@ Organized by Max Shen.
     * Batch Reinforcement Learning (FJ)
 
 # Material and Notes
-tba
+Will be uploaded at a later time.
 
 # Primary References
 
