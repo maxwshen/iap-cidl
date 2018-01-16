@@ -34,9 +34,9 @@ Organized by Max Shen.
     * Batch Reinforcement Learning (FJ)
 
 # Material and Notes
-Will be uploaded at a later time.
+Available as files in this repository.
 
-# Primary References
+# Selected References
 
 * Johansson, F. D., Shalit, U., & Sontag, D. (2016). Learning Representations for Counterfactual Inference. http://arxiv.org/abs/1605.03661
 
@@ -44,5 +44,4 @@ Will be uploaded at a later time.
 
 * Lopez-paz, D., & Sch, B. (2015). Towards a Learning Theory of Cause-Effect Inference. Proceedings of the 32nd International Conference on Machine Learning.
 
-* Incomplete, will be expanded at a later time.
-
+For a complete list of references, refer to lecture notes and slides.
