@@ -14,11 +14,11 @@ Organized by Max Shen.
   * Conditional Treatment Effects (FJ)
   * Distributional Shift (FJ)
   * Domain Adaptation (FJ)
-  * Importance Sampling (FJ)
-  * Model Misspecification (FJ)
 
 **2. Wednesday, January 17th: 5pm-6:30pm at Room 4-231**
   * Counterfactual Inference, continued (FJ)
+    * Importance Sampling (FJ)
+    * Model Misspecification (FJ)
   * Potential Outcomes and Deep Style Transfer (MS)
   * Cause-Effect Discovery with... (MS)
     * Additive Noise Models and the Hilbert-Schmidt Independence Criterion
@@ -26,6 +26,7 @@ Organized by Max Shen.
     * Conditional GANs
     * Randomized Causation Coefficient
     * Proxy Variables
+  * Semi-Supervised Learning and Causality
 
 **3. Thursday, January 18th: 5pm-6:30pm at Room 4-231**
   * Causal Aspects of Reinforcement Learning (FJ)
