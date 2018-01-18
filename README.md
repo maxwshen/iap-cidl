@@ -4,6 +4,10 @@ Causal Inference &amp; Deep Learning, MIT IAP 2018
 Taught by Fredrik Johansson and Max Shen. 
 Organized by Max Shen.
 
+# Course evaluation
+Evaluation form: https://docs.google.com/forms/d/e/1FAIpQLSdA0ogPvj-dXZ7IfcbsOP5UAqNaFUPoA8Vwx_156x80uMGLnw/viewform
+
+
 # Class Schedule
 **1. Tuesday, January 16th: 5pm-6:30pm at Room 4-231**
   * Causal Models and Statistical Models (MS)
