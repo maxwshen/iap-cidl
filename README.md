@@ -5,7 +5,10 @@ Taught by Fredrik Johansson and Max Shen.
 Organized by Max Shen.
 
 # Course evaluation
-Evaluation form: https://docs.google.com/forms/d/e/1FAIpQLSdA0ogPvj-dXZ7IfcbsOP5UAqNaFUPoA8Vwx_156x80uMGLnw/viewform
+We would like everyone who have taken part in the course to fill out a short evaluation form.
+
+Evaluation form: 
+https://docs.google.com/forms/d/e/1FAIpQLSdA0ogPvj-dXZ7IfcbsOP5UAqNaFUPoA8Vwx_156x80uMGLnw/viewform
 
 
 # Class Schedule
